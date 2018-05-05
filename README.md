@@ -1,4 +1,4 @@
-# actionfigures.ro
+www.actionfigures.ro
 
 This is my first online site, made way back in 2014 with beginner HTML and CSS skills.
 
